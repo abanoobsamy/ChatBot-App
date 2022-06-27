@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatBot App</string>
+    <string name="enter_message">Enter Your Message?</string>
+</resources>
